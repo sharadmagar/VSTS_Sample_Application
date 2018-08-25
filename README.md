@@ -1,1 +1,1 @@
-# VSTS_Sample_Application
+# VSTS_Sample_Application_CICD
