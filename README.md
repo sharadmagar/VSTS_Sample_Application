@@ -1,1 +1,1 @@
-# VSTS_Sample_Application_CICD_For Team City
+# VSTS_Sample_Application_CICD Team City
